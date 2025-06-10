@@ -11,3 +11,4 @@
 ##### https://testflight.apple.com/join/WHGjwN4t
 
 ## Blackronym (iOS Guessing Game app)
+##### https://testflight.apple.com/join/SUvM2HJ3
