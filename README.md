@@ -7,3 +7,5 @@
 ## Community Connect Co-Founder
 #### https://www.communityconnect.cc/about
 
+## Bridget AI (Vision Pro app)
+##### https://testflight.apple.com/join/WHGjwN4t
